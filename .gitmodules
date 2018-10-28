@@ -1,0 +1,3 @@
+[submodule "src/ocgcore"]
+	path = src/ocgcore
+	url = https://github.com/kikyoulzg/ygopro-core.git
